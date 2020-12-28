@@ -1,0 +1,25 @@
+{
+    "name": "adf-harbuz",
+    "id": "/subscriptions/bcf738bf-133e-4678-85b1-2198cacc0d51/resourceGroups/anna.harbuz/providers/Microsoft.DataFactory/factories/adf-harbuz",
+    "type": "Microsoft.DataFactory/factories",
+    "properties": {
+        "provisioningState": "Succeeded",
+        "createTime": "2020-12-28T10:25:39.8479355Z",
+        "version": "2018-06-01",
+        "factoryStatistics": {
+            "totalResourceCount": 0,
+            "maxAllowedResourceCount": 0,
+            "factorySizeInGbUnits": 0,
+            "maxAllowedFactorySizeInGbUnits": 0
+        },
+        "publicNetworkAccess": "Enabled"
+    },
+    "eTag": "\"d5006969-0000-0c00-0000-5fe9b2a40000\"",
+    "location": "northeurope",
+    "identity": {
+        "type": "SystemAssigned",
+        "principalId": "6051cce5-537c-4138-a05b-fae0f694f019",
+        "tenantId": "2611abf3-4765-483b-8358-29d44f20cc60"
+    },
+    "tags": {}
+}
